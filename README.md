@@ -1,6 +1,6 @@
-# Drugs Consumption Regression
+# Cannabis Consumption Regression
 
-This project uses machine learning to predict the level of drug consumption, based on psychological traits and demographic data. The goal is to predict an individual's level of consumption using features such as personality scores, impulsivity, sensation seeking, and other demographic information.
+This project uses machine learning to predict the level of cannabis consumption, based on psychological traits and demographic data. The goal is to predict an individual's level of consumption using features such as personality scores, impulsivity, sensation seeking, and other demographic information.
 
 ## Data Used
 
